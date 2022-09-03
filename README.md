@@ -1,2 +1,3 @@
-# Project-Management-Dashboard
-This is a group project which is given as a task by the Corizo. 
+ Project-Management-Dashboard
+
+a simple dashboard for managing various projects and increasing productivity
