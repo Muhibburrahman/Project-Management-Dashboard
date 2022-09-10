@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import "properties.scss";
 
 .statusLine {
@@ -15,3 +16,28 @@
     width: initial;
   }
 }
+=======
+@import "properties.scss";
+
+.statusLine {
+  width: 100%;
+  margin: 0 0.5rem;
+  
+
+
+
+  h3 {
+    font-weight: 500;
+    margin: 1rem 0;
+  }
+}
+.change{
+  background-color: aqua;
+}
+
+@media only screen and (max-width: 75rem) {
+  .statusLine {
+    width: initial;
+  }
+}
+>>>>>>> 5a01a71 (Initial commit)
